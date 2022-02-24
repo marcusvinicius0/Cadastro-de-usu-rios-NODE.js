@@ -11,8 +11,7 @@
  
 <img align="center" alt="node" height="30" width="40" src="assets/nodejs.png">
 🤝 Colaboradores
-#
-#
+<br>
 <a href="https://www.linkedin.com/in/marcusviniciusbeghelisantos/" target="_blank">Marcus Vinícius</a>
 
 
