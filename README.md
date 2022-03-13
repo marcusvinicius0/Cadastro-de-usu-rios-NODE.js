@@ -10,8 +10,6 @@
 ### Tecnologias usadas:
  
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction" target="blank">Node</a>;
-
-<br>
 <br>
 🤝 Colaboradores
 <br>
